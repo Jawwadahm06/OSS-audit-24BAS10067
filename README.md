@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Ishank Mittal
-- Registration Number: 24bai10171
+- Name: Jawwad Ahmad
+- Registration Number: 24BAS10067
 - Chosen Software: **Git**
   
 ## Git
